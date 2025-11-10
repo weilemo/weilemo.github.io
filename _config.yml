@@ -1,0 +1,21 @@
+# _config.yml
+title: "莫炜乐 - 个人主页"
+description: "个人网站和博客"
+baseurl: "" 
+url: "https://weilemo.github.io" # 替换为你的用户名
+
+# 构建设置
+markdown: kramdown
+theme: minima # 使用 GitHub 默认主题
+
+# 插件
+plugins:
+  - jekyll-feed
+
+# 作者信息
+author:
+  name: "莫炜乐"
+  email: "814708266@sjtu.edu.cn"
+
+# 社交链接（可选）
+github_username: weilemo
